@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+# Hello my name is Aldrin!
+![Image of Doug Ford](https://pbs.twimg.com/media/DYNdIGIXcAAA86n.jpg)
